@@ -1,0 +1,11 @@
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.exe
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.deps.json
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.runtimeconfig.json
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.runtimeconfig.dev.json
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.dll
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\bin\Debug\netcoreapp3.1\ResponsiPemrograman2770.pdb
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\obj\Debug\netcoreapp3.1\ResponsiPemrograman2770.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\obj\Debug\netcoreapp3.1\ResponsiPemrograman2770.AssemblyInfoInputs.cache
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\obj\Debug\netcoreapp3.1\ResponsiPemrograman2770.AssemblyInfo.cs
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\obj\Debug\netcoreapp3.1\ResponsiPemrograman2770.dll
+D:\pemrograman semester 2\tugas\ResponsiPemrograman2770\obj\Debug\netcoreapp3.1\ResponsiPemrograman2770.pdb
